@@ -1,0 +1,28 @@
+.demo{  
+    width: 900px;
+    justify-content: space-around;
+    padding: 20px;
+           
+       margin: 50px auto;
+           display: flex;
+        text-align: center; 
+        color: black;
+        background-color: #ddebf8;
+        border-bottom: 10px solid #d8cefe;
+
+
+     }
+
+   
+  .dream{
+    text-align: center;
+        
+  }
+  .text{
+    margin: 50px auto;
+       text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .bullet-points{
+    margin: 60px;
+  }
